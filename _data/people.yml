@@ -512,3 +512,13 @@
     - information modeling
     - cyberinfrastructure
     - geoinformatics
+
+- first_name: Shane
+  last_name: Cousins
+  email: shane.cousins@gmail.com
+  github: monkut
+  tags:
+    - distributed computing
+    - data infrastructure 
+    - cloud computing
+    - geospatial mapping
